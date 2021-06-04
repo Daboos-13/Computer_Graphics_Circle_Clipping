@@ -1,0 +1,3 @@
+D:/Matrial/other course/c++/CIRCLECLIP/cmake-build-debug/CMakeFiles/CIRCLECLIP.dir
+D:/Matrial/other course/c++/CIRCLECLIP/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Matrial/other course/c++/CIRCLECLIP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
